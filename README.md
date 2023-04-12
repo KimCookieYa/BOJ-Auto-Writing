@@ -10,7 +10,7 @@
 * 김민석
 
 ### 개발 환경
-* Python3
+* Python3, PyQT
 * VS Code
 
 ## 주요 기능
